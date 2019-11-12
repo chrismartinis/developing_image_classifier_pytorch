@@ -31,3 +31,6 @@ The project submission must include at least two files ```train.py``` and ```pre
     - Return top K most likely classes: ```python predict.py input checkpoint --top_k 3```
     - Use a mapping of categories to real names: ```python predict.py input checkpoint --category_names cat_to_name.json```
     - Use GPU for inference: ```python predict.py input checkpoint --gpu```
+
+## License
+__[MIT](https://github.com/chrismartinis/developing_image_classifier_pytorch/blob/master/LICENSE)__

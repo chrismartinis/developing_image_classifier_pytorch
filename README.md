@@ -1,3 +1,5 @@
+This was my second project for the __[Artificial Intelligence Programming with Python](https://eu.udacity.com/course/ai-programming-python-nanodegree--nd089)__ Nanodegree from Udacity. In this project my task was to use PyTorch to implement an image classifier from scratch, train the network, and finally use it to predict the class for an input image. Quite a challenging ride I have to admit!
+
 # Part 1 - Developing an Image Classifier with Deep Learning
 
 Project Intro - _[Youtube](https://www.youtube.com/watch?v=--9IFCNBM6Y)_
